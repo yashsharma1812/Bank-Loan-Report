@@ -57,3 +57,18 @@ SQL queries have been implemented to validate the accuracy of the dashboard resu
 Feel free to explore the repository for a detailed view of the project files and analyses.
 
 For any inquiries or suggestions, please contact at sharma.yash4389@gmail.com .
+
+![summary](https://github.com/yashsharma1812/Bank-Loan-Report-Project/assets/145771141/30ebbdc7-8ccb-4a69-ac26-ae0cb996fe30)
+
+![overview](https://github.com/yashsharma1812/Bank-Loan-Report-Project/assets/145771141/423fd3ca-e3b1-494a-b359-f6db642cdd0d)
+
+![details](https://github.com/yashsharma1812/Bank-Loan-Report-Project/assets/145771141/00dc820b-eb50-4be9-b209-199686bc5860)
+
+
+
+
+
+
+
+
+
