@@ -14,7 +14,7 @@ Good Loan vs Bad Loan Comparison
 Comparison metrics highlighting the distinction between good and bad loans.
 
 Loan Status Table
-Table displaying the current status of each loan.
+Table displaying the details of each type ol loan status.
 
 ### 2. Overview Dashboard
 Key Metrics by Month
